@@ -9,11 +9,7 @@
 
 ### Connect with me:
 
-
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCEncuHbG9vj8md6xIfL85Yg/videos?view=0&sort=p)
-&nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/hamad-kashmiri-5695a71a1/)
-
+Email: k.hamad@hotmail.co.uk
 
 ### Languages and Tools:
 
