@@ -29,6 +29,6 @@ Email: k.hamad@hotmail.co.uk
 <br />
 
 
-website: ... In construction
-youtube: https://youtube.com/codeSTACKr](https://www.youtube.com/channel/UCEncuHbG9vj8md6xIfL85Yg
-linkedin: https://linkedin.com/in/codeSTACKr](https://www.linkedin.com/in/hamad-kashmiri-5695a71a1/
+[website]: ... In construction
+[youtube]: https://youtube.com/codeSTACKr](https://www.youtube.com/channel/UCEncuHbG9vj8md6xIfL85Yg
+[linkedin]: https://linkedin.com/in/codeSTACKr](https://www.linkedin.com/in/hamad-kashmiri-5695a71a1/
