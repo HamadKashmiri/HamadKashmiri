@@ -5,7 +5,7 @@
 - 🌱 I’m currently increasing my skills with AWS and the cloud
 - 🥅 2022 Goals: Learn more about web3 and the cloud
 - ⚡ Fun fact: I love animation and 3d modelling, though I don't get much time to do it!
-- 😻 Check out the NFT collection I created: [SobzeeSquad]([https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW](https://opensea.io/collection/sobzee-squad)
+- 😻 Check out the NFT collection I created: [SobzeeSquad](https://opensea.io/collection/sobzee-squad)
 
 ### Connect with me:
 
