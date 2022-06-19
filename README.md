@@ -2,7 +2,7 @@
 
 ## I'm a Developer
 
-- 🌱 I’m currently increasing my skills with AWS and the cloud
+- 🌱 I’m currently increasing my skills with AWS and cloud computing
 - 🥅 2022 Goals: Learn more about web3 and the cloud
 - ⚡ Fun fact: I love animation and 3d modelling, though I don't get much time to do it!
 - 😻 Check out the NFT collection I created: [SobzeeSquad](https://opensea.io/collection/sobzee-squad)
