@@ -13,7 +13,7 @@ Email: k.hamad@hotmail.co.uk
 
 ### Languages
 
- :pencil2: Javascript, Typescript with foundational python
+ :pencil2: Javascript, Typescript, SQL and python
 
 
 ### Tools:
