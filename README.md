@@ -3,7 +3,7 @@
 ## I'm a Developer
 
 - 🌱 I’m currently increasing my skills with AWS and cloud computing
-- 🥅 2022 Goals: Learn more about web3 and the cloud
+- 🥅 Goals: Learn more about web3 and expand skills with AWS (currently taking an AWS certified developer course)
 - ⚡ Fun fact: I love animation and 3d modelling, though I don't get much time to do it!
 - 😻 Check out the NFT collection I created: [SobzeeSquad](https://opensea.io/collection/sobzee-squad)
 
@@ -11,9 +11,10 @@
 
 Email: k.hamad@hotmail.co.uk
 
-### Languages
+### Languages and tools
 
- :pencil2: Javascript, Typescript, SQL and python
+ :pencil2: Ruby on Rails, Javascript, Typescript, SQL and python
+ ⚙: Docker, Heroku, Terraform, AWS
 
 
 ### Tools:
