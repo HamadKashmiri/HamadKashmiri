@@ -13,8 +13,7 @@ Email: k.hamad@hotmail.co.uk
 
 ### Languages and tools
 
- :pencil2: Ruby on Rails, Javascript, Typescript, SQL and python
- ⚙: Docker, Heroku, Terraform, AWS
+ :pencil2: Javascript, Typescript, AWS (little bit of Python and Ruby)
 
 
 ### Tools:
